@@ -15,8 +15,8 @@ $ conda config --set auto_activate_base false
 2. Check it works
 ```sh
 $ conda env list
-$ conda create --name tiny python=3.8 -y
-$ conda activate tiny
+$ conda create --name amber-transformer python=3.8 -y
+$ conda activate amber-transformer
 $ conda install -y pytorch torchvision cpuonly -c pytorch
 ```
 

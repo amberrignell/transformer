@@ -21,4 +21,5 @@ $ conda install -y pytorch torchvision cpuonly -c pytorch
 ```
 
 3. Install requirements
+
 `$ pip install -r requirements.txt`

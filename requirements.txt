@@ -3,4 +3,4 @@ sentencepiece
 torch
 matplotlib
 wandb
-plotly
+scikit-learn

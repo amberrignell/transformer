@@ -2,3 +2,5 @@ datasets
 sentencepiece
 torch
 matplotlib
+wandb
+scikit-learn
